@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jul2atnweb/static/css/main.003f917c.css",
+    "main.js": "/jul2atnweb/static/js/main.399c080f.js",
+    "static/js/453.68693753.chunk.js": "/jul2atnweb/static/js/453.68693753.chunk.js",
+    "static/media/image2.jpeg": "/jul2atnweb/static/media/image2.1ea298d9a8dd55b1151f.jpeg",
+    "static/media/image17.jpeg": "/jul2atnweb/static/media/image17.634bb5167ad6b4145daa.jpeg",
+    "static/media/image5.jpeg": "/jul2atnweb/static/media/image5.cb1447037a2bd6c8b9e6.jpeg",
+    "static/media/image15.jpeg": "/jul2atnweb/static/media/image15.58a0b7e1404c31bacb8d.jpeg",
+    "static/media/347421016_259959626642112__n.jpeg": "/jul2atnweb/static/media/347421016_259959626642112_4982826648768478915_n.c7319f9c6f1b7bcb1096.jpeg",
+    "static/media/355227758_258936860077722__n.jpeg": "/jul2atnweb/static/media/355227758_258936860077722_316521707001013400_n.926e8b72cab507cef204.jpeg",
+    "static/media/342987283___n.jpeg": "/jul2atnweb/static/media/342987283_1413715239461706_3528481641895411535_n.6e5c2a488706fdf5166c.jpeg",
+    "static/media/355488932_259959833308758__n.jpeg": "/jul2atnweb/static/media/355488932_259959833308758_1753994069191027533_n.7dabce96ca1a8898823b.jpeg",
+    "static/media/443732297_450328210938585__n.jpeg": "/jul2atnweb/static/media/443732297_450328210938585_5139227010403074693_n.5fcb3d4a374d3530f74f.jpeg",
+    "static/media/417498183_369698379001569__n.jpeg": "/jul2atnweb/static/media/417498183_369698379001569_5363292393220416870_n.d88d110b8c3e59d3068c.jpeg",
+    "static/media/374506097_308950615076346__n.jpeg": "/jul2atnweb/static/media/374506097_308950615076346_6423587754105057663_n.c15a102e26f11c84aa4d.jpeg",
+    "index.html": "/jul2atnweb/index.html",
+    "main.003f917c.css.map": "/jul2atnweb/static/css/main.003f917c.css.map",
+    "main.399c080f.js.map": "/jul2atnweb/static/js/main.399c080f.js.map",
+    "453.68693753.chunk.js.map": "/jul2atnweb/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.003f917c.css",
+    "static/js/main.399c080f.js"
+  ]
+}
